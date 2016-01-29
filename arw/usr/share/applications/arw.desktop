@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=air-raid warning
+Encoding=UTF-8
+Exec=arw
+Icon=/usr/share/games/AirRaidWarning/resources/decor/MainMenu/logo.png
+Terminal=false
+Type=Application
+Categories=Game

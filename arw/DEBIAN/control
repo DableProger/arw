@@ -1,0 +1,8 @@
+Package: arw
+Version: 0.0.2
+Section: games 
+Architecture: all
+Installed-Size: 9
+Depends: python, python-pygame, arwres (= 0.0.1)
+Maintainer: DableProger and RealMetalhead
+Description:  no no no
